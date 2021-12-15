@@ -1,0 +1,27 @@
+body {
+    font-size: 14px;
+    line-height: 2;
+    color: black;
+    background-color:rgb(0, 255, 76)
+}
+.heading {
+    font-size:20px;
+    width: 100%;
+    }
+    .note {
+        font-size: 15px;
+        color: black;
+    }
+    .copy_right_footer{
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        color: black;
+        text-align: center;
+        line-height: 3;
+        background-color: bisque;
+      }
+      img{
+          width: 200px;
+          height: 200px;
+      }
